@@ -1,8 +1,8 @@
 ﻿namespace Proftaak_TalkToMe_Bottlestop
 {
-    class UltraSonicSensor : Reservoir
+    class UltraSonicSensor
     {
-        public int UltraSonicSensorNumber;
+        
         public void MeasureVolume()
         {
 

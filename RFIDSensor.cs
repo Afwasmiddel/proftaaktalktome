@@ -1,7 +1,7 @@
 ﻿namespace Proftaak_TalkToMe_Bottlestop
 {
-    class RFIDSensor : FillingStation
+    class RFIDSensor
     {
-        public int RFIDSensorID;
+        public string RFIDSensorID;
     }
 }

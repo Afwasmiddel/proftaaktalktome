@@ -2,7 +2,9 @@
 {
     class Subscription
     {
-        public int SubscriptionType;
-        public int FillingVolume;
+        public string subscriptionType;
+        public string subscriptionID;
+        public int remainingFillVolume;
+        public int maxFillVolume;
     }
 }

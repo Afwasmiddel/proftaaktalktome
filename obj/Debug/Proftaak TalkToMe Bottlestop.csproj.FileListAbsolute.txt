@@ -1,0 +1,18 @@
+C:\Users\jvdbe\source\repos\Proftaak TalkToMe Bottlestop\bin\Debug\Proftaak TalkToMe Bottlestop.exe.config
+C:\Users\jvdbe\source\repos\Proftaak TalkToMe Bottlestop\bin\Debug\Proftaak TalkToMe Bottlestop.exe
+C:\Users\jvdbe\source\repos\Proftaak TalkToMe Bottlestop\bin\Debug\Proftaak TalkToMe Bottlestop.pdb
+C:\Users\jvdbe\source\repos\Proftaak TalkToMe Bottlestop\obj\Debug\Proftaak TalkToMe Bottlestop.csprojAssemblyReference.cache
+C:\Users\jvdbe\source\repos\Proftaak TalkToMe Bottlestop\obj\Debug\Proftaak TalkToMe Bottlestop.exe
+C:\Users\jvdbe\source\repos\Proftaak TalkToMe Bottlestop\obj\Debug\Proftaak TalkToMe Bottlestop.pdb
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\Proftaak TalkToMe Bottlestop.exe.config
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\Proftaak TalkToMe Bottlestop.exe
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\Proftaak TalkToMe Bottlestop.pdb
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\GenericParsing.dll
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\GenericParsing.xml
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\obj\Debug\Proftaak TalkToMe Bottlestop.csprojAssemblyReference.cache
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\obj\Debug\Proftaak TalkToMe Bottlestop.csproj.CopyComplete
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\obj\Debug\Proftaak TalkToMe Bottlestop.exe
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\obj\Debug\Proftaak TalkToMe Bottlestop.pdb
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\jvdbe\Documents\Fontys ICT\Proftaak\Semester 2 Talk To Me\Software\Proftaak TalkToMe Bottlestop C#\bin\Debug\LumenWorks.Framework.IO.xml
